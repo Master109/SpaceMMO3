@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Enemy.cs">
+    <Files>
+      <File FileName="Assets/M2HNetworking/Example4/GameAssets/Scripts/C#/GameSetup.cs" Line="1" Column="1" />
+      <File FileName="Assets/Enemy.cs" Line="137" Column="47" />
+      <File FileName="Assets/Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets/Player.cs" Line="124" Column="22" />
+      <File FileName="Assets/M2HNetworking/Example4/GameAssets/Scripts/C#/PlayerScript.cs" Line="123" Column="14" />
+      <File FileName="Assets/Plugins/MultiplayerFunctions.cs" Line="1" Column="1" />
+      <File FileName="Assets/Vision.cs" Line="21" Column="76" />
+      <File FileName="Assets/CallForHelp.cs" Line="1" Column="1" />
+      <File FileName="Assets/M2HNetworking/_MenuScene/MenuScript.js" Line="25" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

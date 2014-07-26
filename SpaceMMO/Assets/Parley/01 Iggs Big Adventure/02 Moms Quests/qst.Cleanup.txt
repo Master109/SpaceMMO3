@@ -1,0 +1,28 @@
+30
+Cleanup
+<name> your first choore is to clean up around here. Collect some of the wild flowers growing around our camp.
+!_@~~@_!
+Nicly done <name> those look good enough to eat.
+!_@~~@_!
+I cleaned up our home. Not that hard really just had to collect5 flowers that were laying around.
+!_@~~@_!
+QuestCleanup
+
+0
+
+true
+1
+[
+Collected <5-count>/5 wild flowers.
+!_@~~@_!
+Collected 5 flowers
+!_@~~@_!
+
+5
+false
+GetMushroom
+
+NeedFlowers
+0
+
+]

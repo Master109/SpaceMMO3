@@ -1,0 +1,43 @@
+1
+[
+0
+29
+-1
+
+Igg I have some jobs for you to do now that you are awake.
+!_@~~@_!
+
+!_@~~@_!
+false
+false
+
+0
+
+
+true
+3
+[
+Cleanup
+!_@~~@_!
+30
+
+true
+true
+]
+[
+Have breakfast
+!_@~~@_!
+31
+
+true
+true
+]
+[
+Have a bath
+!_@~~@_!
+32
+
+true
+true
+]
+]

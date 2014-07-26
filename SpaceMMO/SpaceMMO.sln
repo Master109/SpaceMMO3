@@ -1,0 +1,69 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D83CF1A3-03CE-BF8C-D062-B83E922F5A93}") = "SpaceMMO", "Assembly-CSharp-firstpass.csproj", "{9B215639-4653-B480-58E6-337DB26C8610}"
+EndProject
+Project("{D83CF1A3-03CE-BF8C-D062-B83E922F5A93}") = "SpaceMMO", "Assembly-CSharp.csproj", "{960982C2-25C4-4715-38E7-27C6606C2AF4}"
+EndProject
+Project("{D83CF1A3-03CE-BF8C-D062-B83E922F5A93}") = "SpaceMMO", "Assembly-CSharp-Editor-firstpass.csproj", "{7B7F77BB-88FC-7D1D-AAD4-F5A564A7FDE5}"
+EndProject
+Project("{D83CF1A3-03CE-BF8C-D062-B83E922F5A93}") = "SpaceMMO", "Assembly-CSharp-Editor.csproj", "{BC3F8568-82F5-05E5-62F1-F5267E09C1C3}"
+EndProject
+Project("{D83CF1A3-03CE-BF8C-D062-B83E922F5A93}") = "SpaceMMO", "Assembly-UnityScript-firstpass.unityproj", "{937F1F79-0044-BB51-ADC4-801E83F35E5A}"
+EndProject
+Project("{D83CF1A3-03CE-BF8C-D062-B83E922F5A93}") = "SpaceMMO", "Assembly-UnityScript.unityproj", "{2407AD9F-6DE9-886D-015F-A99F02B5FD3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B215639-4653-B480-58E6-337DB26C8610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B215639-4653-B480-58E6-337DB26C8610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B215639-4653-B480-58E6-337DB26C8610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B215639-4653-B480-58E6-337DB26C8610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{960982C2-25C4-4715-38E7-27C6606C2AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960982C2-25C4-4715-38E7-27C6606C2AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960982C2-25C4-4715-38E7-27C6606C2AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960982C2-25C4-4715-38E7-27C6606C2AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B7F77BB-88FC-7D1D-AAD4-F5A564A7FDE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7F77BB-88FC-7D1D-AAD4-F5A564A7FDE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7F77BB-88FC-7D1D-AAD4-F5A564A7FDE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7F77BB-88FC-7D1D-AAD4-F5A564A7FDE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3F8568-82F5-05E5-62F1-F5267E09C1C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3F8568-82F5-05E5-62F1-F5267E09C1C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3F8568-82F5-05E5-62F1-F5267E09C1C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3F8568-82F5-05E5-62F1-F5267E09C1C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{937F1F79-0044-BB51-ADC4-801E83F35E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937F1F79-0044-BB51-ADC4-801E83F35E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937F1F79-0044-BB51-ADC4-801E83F35E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937F1F79-0044-BB51-ADC4-801E83F35E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2407AD9F-6DE9-886D-015F-A99F02B5FD3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2407AD9F-6DE9-886D-015F-A99F02B5FD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2407AD9F-6DE9-886D-015F-A99F02B5FD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2407AD9F-6DE9-886D-015F-A99F02B5FD3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																																																																																																																																																																																																					GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal

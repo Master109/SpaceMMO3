@@ -1,0 +1,90 @@
+-target:library
+-i:UnityEngine
+-i:System.Collections
+-base:UnityEngine.MonoBehaviour
+-nowarn:BCW0016
+-nowarn:BCW0003
+-method:Main
+-out:Temp/Assembly-UnityScript.dll
+-x-type-inference-rule-attribute:UnityEngineInternal.TypeInferenceRuleAttribute
+-debug
+-define:UNITY_4_5_1
+-define:UNITY_4_5
+-define:UNITY_WEBPLAYER
+-define:WEBPLUG
+-define:ENABLE_MICROPHONE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_NEW_HIERARCHY 
+-define:ENABLE_AUDIO_FMOD
+-define:ENABLE_MONO
+-define:ENABLE_TERRAIN
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_GENERICS
+-define:INCLUDE_WP8SUPPORT
+-define:ENABLE_MOVIES
+-define:ENABLE_WWW
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_WEBCAM
+-define:INCLUDE_METROSUPPORT
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_NETWORK
+-define:ENABLE_PHYSICS
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_SHADOWS
+-define:ENABLE_AUDIO
+-define:ENABLE_NAVMESH_CARVING
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:ENABLE_PROFILER
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_OSX
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll'
+-r:'Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll'
+-r:'Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll'
+-i:UnityEditor
+'Assets/M2HNetworking/Example1/Chat.js'
+'Assets/M2HNetworking/Example2/MultiplayerMenu2.js'
+'Assets/M2HNetworking/Example2/gamescript.js'
+'Assets/M2HNetworking/Example3/GameLobby.js'
+'Assets/M2HNetworking/Example3/JoinMenu.js'
+'Assets/M2HNetworking/Example3/LobbyChat.js'
+'Assets/M2HNetworking/Example3/MainMenu.js'
+'Assets/M2HNetworking/Example3/MultiplayerMenu.js'
+'Assets/M2HNetworking/Example3/gamescript_3.js'
+'Assets/M2HNetworking/Example4/GameAssets/Scripts/FPSChat4.js'
+'Assets/M2HNetworking/Example4/GameAssets/Scripts/FPSWalker4.js'
+'Assets/M2HNetworking/Example4/GameAssets/Scripts/GameSetup.js'
+'Assets/M2HNetworking/Example4/GameAssets/Scripts/Machinegun.js'
+'Assets/M2HNetworking/Example4/GameAssets/Scripts/MouseLook.js'
+'Assets/M2HNetworking/Example4/GameAssets/Scripts/gameGUI.js'
+'Assets/M2HNetworking/Example4/GameAssets/Scripts/scoreBoard.js'
+'Assets/M2HNetworking/Example5/GameManager.js'
+'Assets/M2HNetworking/Example5/Player5.js'
+'Assets/M2HNetworking/Tutorial 1/Connect.js'
+'Assets/M2HNetworking/Tutorial 2/Tutorial_2A1.js'
+'Assets/M2HNetworking/Tutorial 2/Tutorial_2A2.js'
+'Assets/M2HNetworking/Tutorial 2/Tutorial_2A3.js'
+'Assets/M2HNetworking/Tutorial 2/Tutorial_2B_Playerscript.js'
+'Assets/M2HNetworking/Tutorial 2/Tutorial_2B_Spawnscript.js'
+'Assets/M2HNetworking/Tutorial 3/Tutorial_3_Playerscript.js'
+'Assets/M2HNetworking/Tutorial 3/Tutorial_3_Spawnscript.js'
+'Assets/M2HNetworking/Tutorial 4/Tutorial_4_GameManager.js'
+'Assets/M2HNetworking/Tutorial 4/Tutorial_4_Playerscript.js'
+'Assets/M2HNetworking/_MenuScene/BackToMainMenu.js'
+'Assets/M2HNetworking/_MenuScene/MenuScript.js'
+'Assets/M2HNetworking/_MenuScene/Rotator.js'
+'Assets/M2HNetworking/zSharedAssets/MakePersistent.js'
+'Assets/Sqiggle/Script/CharacterMotor.js'
+'Assets/Sqiggle/Script/FPSInputController.js'
+'Assets/Sqiggle/Script/PlatformInputController.js'
+'Assets/Sqiggle/Script/ThirdPersonCamera.js'
+'Assets/Sqiggle/Script/ThirdPersonController.js'
+'Assets/Survival.js'
+'Assets/UnitySerializer/Scripts/JSONPauseMenu.js'
+'Assets/UnitySerializer/Scripts/Movement.js'
+'Assets/UnitySerializer/Scripts/PauseMenu.js'
+'Assets/UnitySerializer/Scripts/Spawner.js'
